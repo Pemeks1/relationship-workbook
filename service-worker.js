@@ -1,1 +1,1 @@
-// Placeholder for service worker if needed for PWA
+// Placeholder for service worker functionality
